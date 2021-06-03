@@ -2,7 +2,9 @@
 
 ![](blockychase.png)
 
-Blocky Chase is a boundless chase where you have to solve the maze before your chaser catches up to you. In the maze, different tiles and power ups provide different advantages, so move carefully. But remember, the game gets harder as you level up. I made this during my Freshmen year of high school (Spring 2018). 
+Blocky Chase is a boundless chase where you have to solve the maze before your chaser catches up to you. In the maze, different tiles and power ups provide different advantages, so move carefully. But remember, the game gets harder as you level up. 
+
+I made this during my Freshmen year of high school (Spring 2018). 
 
 ## HOW TO PLAY
 
