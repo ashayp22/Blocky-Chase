@@ -24,7 +24,7 @@ The upbeat and exciting environment of the game provides satisfaction to anyone,
 
 ## RUN GAME LOCALLY
 
-To run the game locally, download this project and run it in Unity. 
+To run the game locally, download this project and run it in [Unity](https://unity.com/). 
 
 ## CONCEPTS
 
