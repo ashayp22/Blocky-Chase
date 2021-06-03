@@ -24,6 +24,6 @@ The upbeat and exciting environment of the game provides satisfaction to anyone,
 
 ## CONCEPTS
 
-- Generating mazes
-- Path-finding algorithms
+- Generating mazes (Growing Tree algorithm)
+- Recursive Path-finding algorithms
 - Sprite design
