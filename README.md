@@ -22,6 +22,10 @@ The game involves many features, including a shop where you can customize the pl
 
 The upbeat and exciting environment of the game provides satisfaction to anyone, no matter who you are and how your day is going. Blocky Chase is the perfect game for lifting your spirits while providing a challenge.
 
+## RUN GAME LOCALLY
+
+To run the game locally, 
+
 ## CONCEPTS
 
 - Generating mazes (Growing Tree algorithm)
