@@ -1,6 +1,6 @@
 # Blocky-Chase
 
-![](img/example.gif)
+![](blockychase.png)
 
 This is the code for https://3d-epicycles.ashayp.com/. 
 
