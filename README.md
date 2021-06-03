@@ -2,7 +2,7 @@
 
 ![](blockychase.png)
 
-Blocky Chase is a boundless chase where you have to solve the maze before your chaser catches up to you. In the maze, different tiles and power ups provide different advantages, so move carefully. But remember, the game gets harder as you level up. 
+[Blocky Chase](https://apps.apple.com/gb/app/blocky-chase/id1404049434?ign-mpt=uo%3D2) is a boundless chase where you have to solve the maze before your chaser catches up to you. In the maze, different tiles and power ups provide different advantages, so move carefully. But remember, the game gets harder as you level up. [Click here](https://apps.apple.com/gb/app/blocky-chase/id1404049434?ign-mpt=uo%3D2) to download the game on the iOS app store!
 
 I made this during my Freshman year of high school (Spring 2018). 
 
